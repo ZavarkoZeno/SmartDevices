@@ -7,5 +7,6 @@ namespace SmartDevices
     public interface IProgramozhato
     {
         void Idozito(string idopont);
+        void IdozitoTorlese();
     }
 }
